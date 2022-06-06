@@ -5,7 +5,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "PA_MEMBER")
+@Table(name = "pa_member")
 public class Member {
 	/**唯一碼**/
 	@Id
