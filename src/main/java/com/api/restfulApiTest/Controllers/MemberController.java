@@ -1,4 +1,4 @@
-package com.api.restfulApiTest.Controllers.MemberController;
+package com.api.restfulApiTest.Controllers;
 
 import java.util.ArrayList;
 import java.util.List;
